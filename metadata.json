@@ -1,0 +1,8 @@
+{
+  "name": "SLM Insight Pro",
+  "description": "A comprehensive technical guide covering SLM material capabilities, industrial applications, strengths, limitations, and future manufacturing integration strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
